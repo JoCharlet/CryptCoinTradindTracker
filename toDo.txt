@@ -1,0 +1,3 @@
+# To do list
+
+* Ajouter service REST --> www.cryptocompare.com
